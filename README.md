@@ -19,9 +19,13 @@ Here are some ideas to get you started:
 I'm Sowmika, A enthusiastic Computer Science Engineer from Kongu Engineering College.
 
 ## About Me
+- 🎓 B.E, Computer Science Engineering at Kongu Engineering College, India
+
 - 🌱 I’m currently learning **Web Technology and Cyber Security**
 
 - 📫 How to reach me **kingpavish45@gmail.com**
+  
+- 😄 Pronouns: She,Her.
 
 ## Languages and Tools
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
