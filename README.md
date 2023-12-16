@@ -33,6 +33,7 @@ I'm Sowmika, A enthusiastic Computer Science Engineer from Kongu Engineering Col
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-FFCA28?style=flat-square&logo=bootstrap&logoColor=black)
 
+## Connect with Me
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-success?style=flat-square&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/profile/sowmikaa_22cse)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-yellow?style=flat-square&logo=leetcode&logoColor=FFA116)](https://leetcode.com/Sowmika_1104/)
 
