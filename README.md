@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Sowmika</h1>
-<h3 align="center">A enthusiastic Computer Science Engineer from Kongu Engineering College.</h3>
+# Hello, World! 👋
 
+I'm Sowmika, A enthusiastic Computer Science Engineer from Kongu Engineering College.
+
+## About Me
 - 🌱 I’m currently learning **Web Technology and Cyber Security**
 
 - 📫 How to reach me **kingpavish45@gmail.com**
