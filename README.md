@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Hello, World! 👋
 
-I'm Sowmika, A enthusiastic Computer Science Engineer from Kongu Engineering College.
+I'm Sowmika, a enthusiastic Computer Science Engineer from Kongu Engineering College.
 
 ## About Me
 - 🎓 B.E, Computer Science Engineering at Kongu Engineering College, India
